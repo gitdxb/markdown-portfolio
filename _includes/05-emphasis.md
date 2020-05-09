@@ -1,7 +1,10 @@
-*This text will be italic*
-_This will also be italic_
+# Skills:
+_Below is a list of my technical skills:_
 
-**This text will be bold**
-__This will also be bold__
-
-_You **can** combine them_
+## Programming languagues:
+* Python
+* Ruby
+* Go
+## Collaboration
+* Github
+* Git
